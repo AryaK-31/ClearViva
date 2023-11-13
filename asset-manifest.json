@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ClearViva/static/css/main.95c36545.css",
-    "main.js": "/ClearViva/static/js/main.aa01e440.js",
+    "main.css": "/ClearViva/static/css/main.8d6228ad.css",
+    "main.js": "/ClearViva/static/js/main.091056c4.js",
     "static/js/787.a65201da.chunk.js": "/ClearViva/static/js/787.a65201da.chunk.js",
     "static/media/hero.jpg": "/ClearViva/static/media/hero.3ca945d2b97efc3d96a0.jpg",
     "static/media/logo.avif": "/ClearViva/static/media/logo.2945fdcb39f9a99ae3ed.avif",
     "index.html": "/ClearViva/index.html",
-    "main.95c36545.css.map": "/ClearViva/static/css/main.95c36545.css.map",
-    "main.aa01e440.js.map": "/ClearViva/static/js/main.aa01e440.js.map",
+    "main.8d6228ad.css.map": "/ClearViva/static/css/main.8d6228ad.css.map",
+    "main.091056c4.js.map": "/ClearViva/static/js/main.091056c4.js.map",
     "787.a65201da.chunk.js.map": "/ClearViva/static/js/787.a65201da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95c36545.css",
-    "static/js/main.aa01e440.js"
+    "static/css/main.8d6228ad.css",
+    "static/js/main.091056c4.js"
   ]
 }
